@@ -6,7 +6,7 @@ title: Finally, a workaround to program Motorola APX Subscriber Units via USB on
   Apple Silicon
 slug: motorola-apx-usb-osx
 featured: false
-draft: true
+draft: false
 tags:
   - Motorola
   - Land Mobile Radio
